@@ -1,0 +1,15 @@
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\bin\Debug\net6.0\Collection.exe
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+C:\Users\Farid\Desktop\homewotk\c#\Collection\Collection\obj\Debug\net6.0\ref\Collection.dll
